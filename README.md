@@ -70,54 +70,6 @@ flipkart-rag-chatbot/
 
 ---
 
-## ⚙️ Setup & Installation
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/Nikkiraj4/flipkart-chatbot.git
-cd flipkart-chatbot
-```
-
-### 2. Create virtual environment
-```bash
-arch -arm64 python3 -m venv .venv
-source .venv/bin/activate
-```
-
-### 3. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Set up environment variables
-Create a `.env` file in the root directory:
-```env
-ASTRA_DB_APPLICATION_TOKEN=your_astradb_token
-ASTRA_DB_API_ENDPOINT=your_astradb_endpoint
-GROQ_API_KEY=your_groq_api_key
-```
-
-### 5. Generate and ingest data
-```bash
-python create_data.py
-python ingest_data.py
-```
-
-### 6. Run the app
-
-**Streamlit:**
-```bash
-streamlit run streamlit_app.py
-```
-Opens at `http://localhost:8501`
-
-**Flask:**
-```bash
-python app.py
-```
-Opens at `http://127.0.0.1:5000`
-
----
 
 ## 💬 Example Questions
 

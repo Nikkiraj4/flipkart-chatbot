@@ -99,7 +99,8 @@ Trendy dresses for women
 
 > Flipkart AI Assistant — Live Chat Interface
 
-![Flipkart AI Assistant](https://flipkart-chatbot-ndpj9netrkgvnt8avj6wej.streamlit.app/)
+[Flipkart AI Assistant]<img width="1075" height="658" alt="Screenshot 2026-04-04 at 10 36 53 PM" src="https://github.com/user-attachments/assets/9c2e497e-d5ac-4963-90c8-193ff7b2cff7" />
+
 
 ---
 

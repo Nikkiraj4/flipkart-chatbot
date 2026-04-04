@@ -115,7 +115,7 @@ Trendy dresses for women
 
 ## 👨‍💻 Author
 
-**Raj Shubham**
+**Nikita raj**
 - GitHub: [@Nikkiraj4](https://github.com/Nikkiraj4)
 
 ---
